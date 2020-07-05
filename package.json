@@ -1,0 +1,24 @@
+{
+  "name": "bilibili-tag-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrSjimo/bilibili-tag-crawler.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/CrSjimo/bilibili-tag-crawler/issues"
+  },
+  "homepage": "https://github.com/CrSjimo/bilibili-tag-crawler#readme",
+  "dependencies": {
+    "@types/jsdom": "^16.2.3",
+    "axios": "^0.19.2",
+    "jsdom": "^16.2.2"
+  }
+}
