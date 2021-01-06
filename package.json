@@ -18,7 +18,7 @@
   "homepage": "https://github.com/CrSjimo/bilibili-tag-crawler#readme",
   "dependencies": {
     "@types/jsdom": "^16.2.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jsdom": "^16.2.2",
     "nodejieba": "^2.4.1"
   }
